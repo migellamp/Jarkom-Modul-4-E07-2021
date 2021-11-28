@@ -3,11 +3,11 @@ Laporan Resmi Jaringan Komputer Modul 4 - E07
 
 Anggota Kelompok:
 
-M Fikri Sunandar 05111940000135
+- M Fikri Sunandar 05111940000135
 
-Migel Aulia Mandiri Putra 05111940000194
+- Migel Aulia Mandiri Putra 05111940000194
 
-Rizaldi Nur Rahman N 05111940000201
+- Rizaldi Nur Rahman N 05111940000201
 
 ## Topologi
 ![alt text](https://github.com/migellamp/Jarkom-Modul-4-E07-2021/blob/main/images/topologi.jpg) <br />
